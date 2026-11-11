@@ -25,6 +25,6 @@ I build security tooling, detection labs, and embedded car-hacking projects. Eve
 
 ## 📫
 
-🔗 [LinkedIn](https://www.linkedin.com/in/cto-prashant/) · 💻 [GitHub](https://github.com/prashantshrestha01)
+🔗 [LinkedIn](https://www.linkedin.com/in/prashant-me/) · 💻 [GitHub](https://github.com/prashantshrestha01)
 
 *Building in public.*
